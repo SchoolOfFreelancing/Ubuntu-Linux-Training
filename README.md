@@ -2,13 +2,14 @@
 
 A hands-on Training covering Ubuntu Linux fundamentals, system administration, networking, security hardening, production server deployment, and building a profitable freelance Linux service.
 
----
+![Duration](https://img.shields.io/badge/Duration-5%20Days-blue)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange)
+![Format](https://img.shields.io/badge/Format-Hands--on%20Labs-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ## Overview
 
 Ubuntu Linux is the world's most widely deployed open-source server operating system — powering cloud infrastructure, web servers, DevOps pipelines, VoIP systems, and enterprise workloads at scale. This Training takes participants from zero to a fully operational, production-hardened Ubuntu Linux server with web hosting, automated deployments, monitoring, and disaster recovery. Every concept is reinforced with a practical lab that produces a portfolio-ready deliverable. Day 5 packages all skills into a market-ready Upwork service offering targeting the global Linux freelance marketplace.
-
----
 
 ## Learning Objectives
 
